@@ -2,3 +2,8 @@ torch
 transformers
 numpy
 IProgress
+huggingface_hub
+ipywidgets
+diffusers
+accelerate 
+peft
