@@ -9,3 +9,8 @@ Topics covered:
     - torch.randint
     - torch.stack
     - torch.embedding
+
+- llm
+    - attention masks
+    - bigram model
+    - bits and bytes model quantization
